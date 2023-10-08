@@ -1,3 +1,3 @@
-module wood/wood-pkg
+module github.com/LarryJJiang/wood-pkg
 
-go 1.16
+go 1.15
